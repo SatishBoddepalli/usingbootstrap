@@ -1,4 +1,7 @@
-
+#navbarSupportedContent ul li:hover{
+    border-bottom: 3px solid #fff;
+    padding-bottom: 10px;
+}
 .navbar-brand{
     padding: 7px;
     font-size: 30px;
