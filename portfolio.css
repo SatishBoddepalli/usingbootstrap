@@ -1,0 +1,88 @@
+
+.navbar-brand{
+    padding: 7px;
+    font-size: 30px;
+    line-height: 30px;
+    color: white;   
+}
+.nav-link{
+    padding-right: 30px;
+    padding-right: 20px;
+    font-size: 18px;
+    color: white;
+    
+}
+.nav-item{
+    padding-left:30px;
+    padding-right:20px;
+    color: white;
+}
+.navbar-nav{
+    padding: 10px;
+    padding:14px 16px;
+}
+
+.heading{
+    width: 100%;
+    padding-top:40px;
+    font-size:5.20em;
+    padding-bottom: 30px;
+    line-height:1.2em;
+    color: white;
+
+}
+.line{
+    width: 10em;
+    border:5px solid white;
+    
+}
+.secondary-text{
+    width: 50%;
+}
+.secondary-text{
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-size: 1.5em;
+}
+#btn1{
+    background-color: lightcoral;
+    padding-top: 20px;
+    
+}
+.des{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.image{
+    padding: 30px 10px 0px 0px;
+    border-radius: 500px;
+    position: relative;
+}
+.lead{
+    padding: 10px 10px;
+}
+.text-center{
+    padding-top: 10px;
+}
+.imp{
+    padding-top: 100px;
+    padding-bottom: 40px;
+
+}
+.font{
+    font-size: 17px;
+}
+.last{
+    padding-top: 150px;
+    font-size: 3em;
+    
+}
+footer{
+  padding-top: 100px;
+}
+#bottom{
+    background-color: lightcoral;
+    
+}
